@@ -21,7 +21,7 @@
     <ClCompile Include="..\Classes\AppDelegate.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\Scene101\Scene101.cpp">
+    <ClCompile Include="..\Classes\Scene101\Scene102.cpp">
       <Filter>src\scene01</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClInclude Include="..\Classes\AppDelegate.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\Scene101\Scene101.h">
+    <ClInclude Include="..\Classes\Scene101\Scene102.h">
       <Filter>src\scene01</Filter>
     </ClInclude>
   </ItemGroup>
